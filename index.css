@@ -1,0 +1,16 @@
+.main-body {
+    height: 100vh;
+    background-color: #4d5061;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-dragon{
+    color: #e7e247;
+    font-size: 50px;
+}
+
+#boton{
+    background-color: darkgreen;
+}
